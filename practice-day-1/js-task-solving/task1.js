@@ -22,3 +22,12 @@
 // **Sample Output:**
 // </br>
 // 300
+
+
+
+
+var amount = 1000;
+var cost = 700;
+
+var total = amount-cost;
+console.log(total);
