@@ -1,11 +1,11 @@
 /**
- * > greater than
- * >= greater than or equal
- * < less than
- * <= less than or equal
- * == equal
- * === 3equal checking name value with data type
- * != not equal
+ * greater than: > 
+ * greater than or equal: >= 
+ * less than: < 
+ * less than or equal: <= 
+ * equal: == check value only
+ * 3equal check value with data type: === 
+ * not equal: != 
  */
 // console.log(5>10); // 10 grater than 5 so it's false 
 // console.log(5>=10); // 10 grater than or not equal 5 so it's false 
