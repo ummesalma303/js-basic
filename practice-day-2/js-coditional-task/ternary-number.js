@@ -15,5 +15,5 @@ also, write it using ternary operator.
  const number2 = 9;
  let result;
  
- result = number1 > number2 ? result = number1 * number1 : result = number1 + number2;
+ result = number1 > number2 ? result = number1 * 2: result = number1 + number2;
  console.log(result) 

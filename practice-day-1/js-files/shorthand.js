@@ -45,3 +45,20 @@ var apple =20;
 apple %= 10;
 console.log(apple);
 
+// normal increment
+var apple =20;
+var apple = apple + 1;
+console.log(apple);
+// shorthand increment
+var apple =20;
+apple ++;
+console.log(apple);
+
+// normal decrement
+var apple =20;
+var apple = apple + 1;
+console.log(apple);
+// shorthand decrement
+var apple =20;
+apple --;
+console.log(apple);
